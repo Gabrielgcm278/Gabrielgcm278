@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gabrielgcm278
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react and nodejs
+- 🌱 I’m currently learning Java
 - 📫 How to reach me https://www.instagram.com/cardosogcmg/ , gabriel.gcm278@gmail.com, https://wa.me/35992041050, https://www.linkedin.com/in/gabriel-cardoso-martins/
 
 <!---
